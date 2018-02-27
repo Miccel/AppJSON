@@ -1,0 +1,9 @@
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\bin\Debug\AppJSON.exe.config
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\bin\Debug\AppJSON.exe
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\bin\Debug\AppJSON.pdb
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\obj\Debug\AppJSON.csprojResolveAssemblyReference.cache
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\obj\Debug\AppJSON.csproj.CoreCompileInputs.cache
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\obj\Debug\AppJSON.exe
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\obj\Debug\AppJSON.pdb
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michele\Documents\ProgettiC#\AppJSON\AppJSON\bin\Debug\Newtonsoft.Json.xml
